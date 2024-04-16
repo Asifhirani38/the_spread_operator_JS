@@ -35,7 +35,7 @@ console.log("Third object:", obj3);
 
 // Copying only part of an array/object
 
-Copying multiple types of data in an object using spread operator
+// Copying multiple types of data in an object using spread operator
 
 let arr5 = [...arr1, {...obj1}, ...arr3, "x", "y", "z"];
 console.log("Fifth array:", arr5);
